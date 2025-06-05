@@ -21,8 +21,8 @@ A responsive, modern portfolio built using **React** and **Tailwind CSS**, featu
 
 ---
 
-## � Project Structure Overview
-
+## Project Structure Overview
+"
 my-portfolio/
 ├── public/
 │   ├── your-photo.jpg
@@ -41,7 +41,7 @@ my-portfolio/
 │   │   └── Navbar.js
 │   ├── App.js
 │   └── index.js
-
+"
 
 ---
 
