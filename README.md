@@ -1,13 +1,11 @@
-# Akhila Kudupudi's Portfolio – Setup & Deployment Guide
 
-This repo documents how I built and deployed my React-based developer portfolio using GitHub Pages.
-
----
 
 ## Akhila Kudupudi – Portfolio Website
 
 A responsive, modern portfolio built using **React** and **Tailwind CSS**, featuring projects, publications, resume, and more. Deployed on **GitHub Pages**.
 
+**Live Site**: [akhila-kudupudi.github.io/akhila-portfolio](https://akhila-kudupudi.github.io/akhila-portfolio)  
+**Repository**: [GitHub - Akhila Kudupudi](https://github.com/Akhila-kudupudi/akhila-portfolio)
 
 ---
 
