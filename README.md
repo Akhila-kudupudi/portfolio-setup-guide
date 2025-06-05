@@ -4,22 +4,14 @@ This repo documents how I built and deployed my React-based developer portfolio 
 
 ---
 
-# 💼 Akhila Kudupudi – Portfolio Website
+## Akhila Kudupudi – Portfolio Website
 
 A responsive, modern portfolio built using **React** and **Tailwind CSS**, featuring projects, publications, resume, and more. Deployed on **GitHub Pages**.
 
----
-
-## 🧱 Step 1: Clone the Repo
-
-```bash
-git clone https://github.com/Akhila-kudupudi/akhila-portfolio.git
-cd akhila-portfolio
-
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - React (with `create-react-app`)
 - Tailwind CSS
@@ -29,7 +21,7 @@ cd akhila-portfolio
 
 ---
 
-## 📁 Project Structure Overview
+## � Project Structure Overview
 
 my-portfolio/
 ├── public/
@@ -53,7 +45,7 @@ my-portfolio/
 
 ---
 
-## 📦 Step 1: Create the React App
+##  Step 1: Create the React App
 
 ```bash
 npx create-react-app my-portfolio
@@ -62,7 +54,7 @@ cd my-portfolio
 
 ---
 
-## 🎨 Step 2: Install Tailwind CSS
+## Step 2: Install Tailwind CSS
 
 ```bash
 npm install -D tailwindcss postcss autoprefixer
@@ -102,7 +94,7 @@ Each file is a standalone React component styled with Tailwind.
 
 ---
 
-## 📁 Step 4: Add Assets to `public/`
+## Step 4: Add Assets to `public/`
 
 Place the following in the `public/` folder:
 
@@ -120,7 +112,7 @@ Place the following in the `public/` folder:
 
 ---
 
-## 📄 Step 5: Update Routing in `App.js`
+## Step 5: Update Routing in `App.js`
 
 Import and render all the components inside `App.js`:
 
@@ -152,7 +144,7 @@ function App() {
 
 ---
 
-## 🧪 Step 6: Test Locally
+## Step 6: Test Locally
 
 Run the development server:
 
@@ -169,7 +161,7 @@ Check that:
 
 ---
 
-## 🚀 Step 7: Deploy to GitHub Pages
+## Step 7: Deploy to GitHub Pages
 
 ### 1. Add homepage in `package.json`:
 
@@ -192,7 +184,7 @@ npm install --save-dev gh-pages
 }
 ```
 
-### 4. Deploy 🚀
+### 4. Deploy 
 
 ```bash
 npm run deploy
@@ -202,18 +194,18 @@ This will push the production build to GitHub Pages.
 
 ---
 
-## 🧠 Common Issues & Fixes
+## Common Issues & Fixes
 
-- ✅ **Images not loading?**  
+-  **Images not loading?**  
   Use public asset paths:
   ```jsx
   src={`${process.env.PUBLIC_URL}/file-name`}
   ```
 
-- ✅ **Resume PDF not visible?**  
+-  **Resume PDF not visible?**  
   Make sure it's placed inside the `public/` folder.
 
-- ✅ **404 on GitHub Pages?**  
+-  **404 on GitHub Pages?**  
   - Check `homepage` field in `package.json`
   - Confirm you ran `npm run deploy` after pushing code
   - Your repo should be public
