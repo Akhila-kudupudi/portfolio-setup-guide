@@ -22,7 +22,7 @@ A responsive, modern portfolio built using **React** and **Tailwind CSS**, featu
 ---
 
 ## Project Structure Overview
-
+```bash
 my-portfolio/
 ├── public/
 │   ├── your-photo.jpg
@@ -41,9 +41,10 @@ my-portfolio/
 │   │   └── Navbar.js
 │   ├── App.js
 │   └── index.js
-
+```
 
 ---
+
 
 ##  Step 1: Create the React App
 
