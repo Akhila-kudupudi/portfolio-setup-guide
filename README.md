@@ -211,7 +211,7 @@ This will push the production build to GitHub Pages.
 
 ---
 
-## 📚 Summary
+##  Summary
 
 | Feature         | Tech Used              |
 |----------------|------------------------|
@@ -223,11 +223,11 @@ This will push the production build to GitHub Pages.
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
-👩‍💻 Built with ❤️ by **Akhila Kudupudi**  
-📧 akhila06121999@gmail.com  
-🔗 [GitHub](https://github.com/Akhila-kudupudi)
+ Built by **Akhila Kudupudi**  
+ akhila06121999@gmail.com  
+ [GitHub](https://github.com/Akhila-kudupudi)
 
 ---
 
